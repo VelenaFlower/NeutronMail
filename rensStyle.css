@@ -436,8 +436,11 @@
         display: none;
     }
 
-    .footer-middle {
+    .footer {
         width: 420px;
+    }
+
+    .footer-middle {
         flex-direction: column;
     }
 
